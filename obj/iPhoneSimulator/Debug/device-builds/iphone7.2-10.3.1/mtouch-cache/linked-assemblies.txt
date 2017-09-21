@@ -1,0 +1,4 @@
+/Users/mike/Projects/HexToRGB/HexToRGB/bin/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/HexToRGB.app:/Users/mike/Projects/HexToRGB/HexToRGB/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/mtouch-cache/Link/HexToRGB.exe
+/Users/mike/Projects/HexToRGB/HexToRGB/bin/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/HexToRGB.app:/Users/mike/Projects/HexToRGB/HexToRGB/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/mtouch-cache/Link/mscorlib.dll
+/Users/mike/Projects/HexToRGB/HexToRGB/bin/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/HexToRGB.app:/Users/mike/Projects/HexToRGB/HexToRGB/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/mike/Projects/HexToRGB/HexToRGB/bin/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/HexToRGB.app:/Users/mike/Projects/HexToRGB/HexToRGB/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/mtouch-cache/Link/System.dll
